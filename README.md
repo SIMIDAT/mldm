@@ -3,7 +3,6 @@
 Repository for the model presented in the soon to be published article “Addressing Multilabel Imbalance with an Efficiency-Focused Approach Using Diffusion Model-Generated Synthetic Samples”.
 
 This is the implementation of a diffusion model for oversampling multi-label data.
-This implementation is an adaptation of the [TabDDPM model](https://github.com/rotot0/tab-ddpm).
 
 ## Running the model
 1. Install [conda](https://docs.conda.io/en/latest/miniconda.html) in order to manage the virtual environment.
